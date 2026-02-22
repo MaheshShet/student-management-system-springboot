@@ -10,6 +10,12 @@ It is intended for educational and learning purposes.
 Watch the full tutorial here:
 https://www.youtube.com/playlist?list=PLSIuN2hFKqGLG4VfEc0k-LjJtjW4YdKSo
 
+
+## ⭐ Support This Project
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+It motivates me to create more free content for you.
+
 ---
 
 ## Tech Stack
